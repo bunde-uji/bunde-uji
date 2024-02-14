@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bunde-uji
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Three.js
 - 💞️ I’m looking to collaborate on web based projects, specifically on the frontend
 - 📫 How to reach me: bundeuji@gmail.com
 
