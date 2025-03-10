@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bunde-uji
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning Three.js
-- 💞️ I’m looking to collaborate on web based projects, specifically on the frontend
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: bundeuji@gmail.com
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunde-uji)](https://github.com/anuraghazra/github-readme-stats)
